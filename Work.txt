@@ -1,0 +1,38 @@
+34864556+kenweb2011@users.noreply.github.com
+
+Katalon
+
+Gherkin
+
+Cucumber
+BDD - Behaviour Driven Design
+
+TrustM3
+
+PDF Password:
+tt3610gkjpmc
+tt3650gkjpmc
+
+
+
+Eclipse
+C:\Tools
+C:\Tools\eclipse_oxygen
+C:\Users\Administrator\eclipse-workspace
+C:\Program Files\Java\jre1.8.0_151
+C:\Program Files\Java\jdk1.8.0_151
+RunAs application
+
+localhost:8080
+3, n-1
+11, 99
+
+
+Lab Guide:
+c:\Courseware
+
+Lab Code:
+C:\Couurses
+
+
+
